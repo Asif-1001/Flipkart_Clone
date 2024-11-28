@@ -1,1 +1,1 @@
-# Flipkart_Clone
+This is a simple clone of the Flipkart e-commerce website developed using only HTML and CSS. It replicates the front-end design of Flipkart's landing page and offers a visually appealing and responsive user interface.
